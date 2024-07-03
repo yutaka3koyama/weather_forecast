@@ -6,3 +6,4 @@ This repository is for weather forecast AI model based on daily picture of Mt.Fu
 Attention!
 - Thoes files use large size pircture files of Mt.Fuji saved on my local server, 
 so cannot commited by internet user.
+- This repository contains gradient decent module released publicly.
