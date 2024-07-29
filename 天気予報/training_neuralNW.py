@@ -30,6 +30,7 @@ def load_specific_images(place, s_year, s_month, s_day, e_year, e_month, e_day) 
     images = []
 
     # フォルダーのパスを作成
+    # 任意のディレクトリ中の指定placeフォルダ内に'富士山画像収集.py'で年月日がファイル名の画像を保存し参照
     folder = f'/Users/yutaka3koyama/Pictures/富士山画像/{place}'
 
     # 指定の日付を取得
@@ -63,6 +64,7 @@ def load_specific_images(place, s_year, s_month, s_day, e_year, e_month, e_day) 
 # 地点と日付に合致するラベルデータを返す関数
 def get_label_with_condition(date, place):
 
+    # 任意のディレクトリ中に'数値取得_pandas.py'で'weather_data.csv'を作成し参照
     filepath_label = '/Users/yutaka3koyama/python/天気予報/神奈川県気象データ/weather_data.csv'
     df = pd.read_csv(filepath_label)
 
