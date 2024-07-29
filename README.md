@@ -12,6 +12,6 @@ This repository is for weather forecast using daily picture of Mt.Fuji
 'training_neuralNW.py' is script to train and test using Neural Network.
 
 Attention!
-- Thoes files use large size pircture files of Mt.Fuji saved on my local server, 
-so cannot commited by internet user.
-- This repository contains gradient decent module released publicly.
+- Thoes files use large size pircture files of Mt.Fuji saved on local server, 
+so cannot commited by internet user directly.
+- This repository contains gradient decent module in 'common' folder released publicly.
