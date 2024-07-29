@@ -4,7 +4,7 @@
 
 | Language, F/W  | version |
 | --------------------- | ---------- |
-| Python                | 3.11.4     |
+| Python                | 3.12.0     |
 
 ## Progject
 This repository is for weather forecast using daily picture of Mt.Fuji
