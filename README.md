@@ -1,4 +1,4 @@
-## Environment
+## 🌱 Environment
 
 <!-- 言語、フレームワーク、ミドルウェア、インフラの一覧とバージョンを記載 -->
 
@@ -6,7 +6,7 @@
 | --------------------- | ---------- |
 | Python                | 3.12.0     |
 
-## Progject
+## 🏃‍♀️ Progject
 This repository is for weather forecast using daily picture of Mt.Fuji
 'training_sklearn.py' is script to train and test using Scikit-learn algorithm.
 'training_neuralNW.py' is script to train and test using Neural Network.
