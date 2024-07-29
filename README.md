@@ -8,7 +8,7 @@
 
 ## 🏃‍♀️ Progject
 This repository is for weather forecast using daily picture of Mt.Fuji.
-You can use this repository to predict specific grouping result reralted with picture RGB data.
+You can use this repository to predict specific grouping result related with picture RGB data.
 'training_sklearn.py' is script to train and test using Scikit-learn algorithm.
 'training_neuralNW.py' is script to train and test using Neural Network.
 
